@@ -1,2 +1,3 @@
-# russian_field_of_experiments
+# Russian Field of Experiments
+# Русское Поле Экспериментов
 Minetest Game
