@@ -1,13 +1,6 @@
 
 ![Logo](/github/logo.png)
 
-# War & State of RFOE
-### War in Ukraine
-A big reason for creating RFOE was to show people Russian Culture through characters and plot of the game. The Russian government has decided, however, to show violence. Russian Culture has a lot to do with war maybe, but hardly anything with invasion of other countries. I don't support this or any other war, as you could guess by my profile picture. 
-### State of RFOE
-It's been dragging since November 2021, main culprit being Game Design Document. Events described in section above don't exactly contribute to productivity of course. But GDD will be made sooner or later; the project isn't dead. 
-
-
 # Russian Field of Experiments
 **RFOE** is 3D Survival Sandbox with 2D Visual Novel elements, made in [**Minetest**](https://github.com/minetest/minetest) Game Engine.<br>
 ### Resources:
